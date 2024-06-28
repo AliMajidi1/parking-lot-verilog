@@ -4,6 +4,7 @@
 
 
 # Parking lot logic
+### Note: add file to modelsim project as SystemVerilog
 This project is a logic for parking that controls the entry and exit of cars
 
 
